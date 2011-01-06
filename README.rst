@@ -5,7 +5,7 @@ This repository is used to host builds of the rst2beamer sphinx-generated
 documentation for various releases.  The hosted documentation can be
 viewed `here <http://rst2beamer.github.com/>`_.
 
-These documents themselves are maintained as a `git repository <https://github.com/rst2beamer/rst2beamer.github.com>`_ on github, using the `github project pages feature <http://pages.github.com/>`_.
+These documents themselves are maintained as a `git repository <https://github.com/rst2beamer/doc>`_ on github, using the `github project pages feature <http://pages.github.com/>`_.
 
 The actual rst2beamer code is in a separate repository, which is currently
 hosted `here <https://github.com/ryanGT/rst2beamer>`_. However, we are in the
